@@ -1,11 +1,13 @@
 pandas
 scikit-learn
+scipy
 nltk
 gensim
 matplotlib
 seaborn
 wordcloud
 Sastrawi
+pyarrow
 notebook
 nbformat
 nbconvert

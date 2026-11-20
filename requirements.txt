@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+nltk
+gensim
+matplotlib
+seaborn
+wordcloud
+Sastrawi
+notebook
+nbformat
+nbconvert
+
